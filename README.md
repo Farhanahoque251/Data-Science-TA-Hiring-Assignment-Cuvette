@@ -13,6 +13,7 @@ Section 4: Excel(https://docs.google.com/spreadsheets/d/17S8HqvlM7_ADAQ0Lv-UO8sc
 Section 5: Bonus (Optional)(https://docs.google.com/document/d/1DGmP6E3xX5YGxc60kF2JaGWPaJh-SFaVGulWErKSSXA/edit?usp=sharing)
 
 Section 6: AI Tools & LLMs(https://docs.google.com/document/d/1YZE7fzYWsuvwbREdL3qG2NuILgVHqZBSPgSGyJDk9SE/edit?usp=sharing)
+Section :Recording:https://drive.google.com/file/d/1VgVY4NDrkD8Hi583qFwhJUukGFWCiac3/view?usp=sharing
 
 📂 Files Included:
 Jupyter notebook (.ipynb) for Python + Machine Learning (Section 1)
@@ -131,7 +132,7 @@ The AI provided a correct formula based on the given prompt. I used it directly 
 🎥 Video Recording (Mandatory)
 I have recorded a 10-15 minute video that explains each part of my solution step-by-step, talking through the challenges and how I solved each problem.
 
-Watch the video here
+Watch the video here:https://drive.google.com/file/d/1VgVY4NDrkD8Hi583qFwhJUukGFWCiac3/view?usp=sharing
 
 Open the Jupyter notebook for Python + ML (section1_python_ml.ipynb) to run the code.
 
