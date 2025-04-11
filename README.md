@@ -2,13 +2,13 @@ Data Science TA Hiring Assignment – Cuvette
 This repository contains my submission for the Data Science Teaching Assistant (TA) Hiring Assignment at Cuvette. The purpose of this assignment is to demonstrate my technical knowledge, problem-solving skills, and ability to explain data science concepts clearly.
 
 Sections Covered:
-Section 1: Python + Machine Learning
+Section 1: Python + Machine Learning()
 
-Section 2: SQL
+Section 2: SQL(https://docs.google.com/document/d/1q-e2CO9LCxzyOx5260dW4Fjz3afaCqfv3BgkCPV-9-I/edit?tab=t.0)
 
-Section 3: Tableau
+Section 3: Tableau(https://docs.google.com/document/d/1N9eHHH2qhJ_6hi5H_p6PZx6JbvW_2F-NKV1hP4meB9g/edit?tab=t.0)
 
-Section 4: Excel
+Section 4: Excel(https://docs.google.com/spreadsheets/d/17S8HqvlM7_ADAQ0Lv-UO8scpexZpzdIW/edit?usp=sharing&ouid=106564686283972622125&rtpof=true&sd=true)
 
 Section 5: Bonus (Optional)
 
