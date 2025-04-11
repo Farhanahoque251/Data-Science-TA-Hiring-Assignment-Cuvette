@@ -82,7 +82,8 @@ Added filters for room type and neighborhood
 
 Published the dashboard to Tableau Public for public sharing
 
-Link to Tableau Public Dashboard
+Link to Tableau Public Dashboard:
+https://public.tableau.com/views/NYCAirbnbDashboard_17443666584060/AirbnbListingsinNYC?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ✅ Section 4: Excel (30 mins)
 Dataset: Online Retail Dataset (UCI)
