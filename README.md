@@ -2,7 +2,7 @@ Data Science TA Hiring Assignment – Cuvette
 This repository contains my submission for the Data Science Teaching Assistant (TA) Hiring Assignment at Cuvette. The purpose of this assignment is to demonstrate my technical knowledge, problem-solving skills, and ability to explain data science concepts clearly.
 
 Sections Covered:
-Section 1: Python + Machine Learning()
+Section 1: Python + Machine Learning(https://github.com/Farhanahoque251/Data-Science-TA-Hiring-Assignment-Cuvette/blob/main/student_pass_prediction.ipynb)
 
 Section 2: SQL(https://docs.google.com/document/d/1q-e2CO9LCxzyOx5260dW4Fjz3afaCqfv3BgkCPV-9-I/edit?tab=t.0)
 
@@ -10,9 +10,9 @@ Section 3: Tableau(https://docs.google.com/document/d/1N9eHHH2qhJ_6hi5H_p6PZx6Jb
 
 Section 4: Excel(https://docs.google.com/spreadsheets/d/17S8HqvlM7_ADAQ0Lv-UO8scpexZpzdIW/edit?usp=sharing&ouid=106564686283972622125&rtpof=true&sd=true)
 
-Section 5: Bonus (Optional)
+Section 5: Bonus (Optional)(https://docs.google.com/document/d/1DGmP6E3xX5YGxc60kF2JaGWPaJh-SFaVGulWErKSSXA/edit?usp=sharing)
 
-Section 6: AI Tools & LLMs
+Section 6: AI Tools & LLMs(https://docs.google.com/document/d/1YZE7fzYWsuvwbREdL3qG2NuILgVHqZBSPgSGyJDk9SE/edit?usp=sharing)
 
 📂 Files Included:
 Jupyter notebook (.ipynb) for Python + Machine Learning (Section 1)
