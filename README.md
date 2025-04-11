@@ -42,7 +42,8 @@ Evaluated the model using accuracy, confusion matrix, F1-score
 
 Included comments and markdown for clarity
 
-You can find the code for Section 1 in the section1_python_ml.ipynb Jupyter notebook.
+You can find the code for Section 1 :
+[_python_ml.ipynb Jupyter notebook.](https://github.com/Farhanahoque251/Data-Science-TA-Hiring-Assignment-Cuvette/blob/main/student_pass_prediction.ipynb)
 
 ✅ Section 2: SQL (30–45 mins)
 Dataset: Chinook Database (Music Store)
