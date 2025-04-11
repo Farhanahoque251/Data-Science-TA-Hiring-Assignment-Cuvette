@@ -117,7 +117,7 @@ Explaining Gradient Descent:
 To explain Gradient Descent to beginners, I would use a real-world analogy of walking down a hill while blindfolded. The goal is to find the lowest point (minimizing the error). We use the slope (gradient) of the hill to determine our next step. In machine learning, we use gradient descent to minimize the error of a model by adjusting parameters iteratively.
 
 ✅ Section 6: AI Tools & LLMs (30 mins)
-Option A: Prompt Engineering
+Option A: Prompt Engineering(https://docs.google.com/document/d/1YZE7fzYWsuvwbREdL3qG2NuILgVHqZBSPgSGyJDk9SE/edit?usp=sharing)
 
 Prompt Used:
 "Write an Excel formula to calculate average order value using total revenue and number of orders"
