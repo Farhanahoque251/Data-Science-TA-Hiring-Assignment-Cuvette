@@ -62,6 +62,7 @@ Wrote a query to get monthly sales trends in 2013
 
 You can find the SQL queries in the section2_sql.sql file.
 https://docs.google.com/document/d/1q-e2CO9LCxzyOx5260dW4Fjz3afaCqfv3BgkCPV-9-I/edit?usp=sharing
+
 1.https://sqliteonline.com/#sqltext=%23url-sqlite%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Flerocha%2Fchinook-database%2Fmaster%2FChinookDatabase%2FDataSources%2FChinook_Sqlite.sqlite%0D%0A%23tab-name%3DChinook_Sqlite.sqlite%0D%0A--%20Query%201%3A%20Top%205%20customers%20by%20total%20purchase%20amount%0ASELECT%20%0A%20%20%20%20c.FirstName%20%7C%7C%20'%20'%20%7C%7C%20c.LastName%20AS%20CustomerName%2C%0A%20%20%20%20SUM(i.Total)%20AS%20TotalPurchase%0AFROM%20%0A%20%20%20%20Customer%20c%0AJOIN%20%0A%20%20%20%20Invoice%20i%20ON%20c.CustomerId%20%3D%20i.CustomerId%0AGROUP%20BY%20%0A%20%20%20%20c.CustomerId%0AORDER%20BY%20%0A%20%20%20%20TotalPurchase%20DESC%0ALIMIT%205%3B%0A%0A
 
 
